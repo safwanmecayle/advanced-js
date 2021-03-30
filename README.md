@@ -1,1 +1,2 @@
-# advanced-js
+interview related questions about js
+
